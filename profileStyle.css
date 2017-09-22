@@ -1,0 +1,39 @@
+p
+{
+background-color: #bfff80;
+color: #ff6666;
+font-family: arial;
+font-size: 30pt;
+}
+
+p.bio
+{
+  background-color: #ff9999;
+  color: black;
+  font-family: times;
+  font-size: 18pt;
+}
+p.headings
+{
+background-color:  #ddffcc;
+color: #004d00;
+font-size: 15pt;
+}
+
+a{
+  background-color: white;
+  color: #009933;
+}
+
+body
+{
+background-image: url("daisies.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+a:hover
+{
+    color: #ff6666;
+}
